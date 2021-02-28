@@ -1,4 +1,4 @@
-package io.cryptothrills.capacitorechoplugin;
+package za.co.emmanuelshekinah.capacitorechoplugin;
 
 import android.content.SharedPreferences;
 import android.app.Activity;
